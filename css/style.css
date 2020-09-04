@@ -746,9 +746,7 @@ p.text {
 }
 
 .services {
-  background: #000;
-  -webkit-box-shadow: 0px 50px 70px -40px rgba(0, 0, 0, 0.95);
-  box-shadow: 0px 50px 70px -40px rgba(0, 0, 0, 0.95);
+  background: none;
 }
 
 .owl-theme .owl-dots .owl-dot span {
