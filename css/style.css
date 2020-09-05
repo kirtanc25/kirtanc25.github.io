@@ -903,6 +903,7 @@ footer .back-top i {
 }
 
 .form-inp {
+  color: #fff;
   border: 0;
   background: none;
   border-bottom: solid 1px #8c8c8c;
@@ -917,7 +918,7 @@ footer .back-top i {
   background: none;
   border-bottom: solid 1px #8c8c8c;
   width: 100%;
-  color: #000;
+  color: #fff;
   font-size: 15px;
 }
 
